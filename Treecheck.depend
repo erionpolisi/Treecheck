@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1745259173 source:c:\users\epbri\documents\uni\c++\treecheck\src\node.cpp
+	"Node.h"
+
+1745259030 c:\users\epbri\documents\uni\c++\treecheck\include\node.h
+
+1745272028 source:c:\users\epbri\documents\uni\c++\treecheck\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Tree.h"
+
+1745271602 c:\users\epbri\documents\uni\c++\treecheck\include\tree.h
+	<vector>
+	"Node.h"
+
+1745271693 source:c:\users\epbri\documents\uni\c++\treecheck\src\tree.cpp
+	"Tree.h"
+	<iostream>
+
